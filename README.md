@@ -24,6 +24,7 @@ I believe in learning by doing — every project on this profile, no matter how 
 📫 Get In Touch
 
 💼 LinkedIn ← https://www.linkedin.com/in/nawal-amanullah-378b8a338/
+
 📧 n.amanullah2008@gmail.com
 
 "The expert in anything was once a beginner."
