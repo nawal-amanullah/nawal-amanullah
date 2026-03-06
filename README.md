@@ -18,7 +18,6 @@ I believe in learning by doing — every project on this profile, no matter how 
 
 🌱 Just getting started — check back soon for my first projects!
 
-📊 GitHub Stats
 
 
 📫 Get In Touch
@@ -27,4 +26,6 @@ I believe in learning by doing — every project on this profile, no matter how 
 
 📧 n.amanullah2008@gmail.com
 
-"The expert in anything was once a beginner."
+
+
+                         "The expert in anything was once a beginner."
